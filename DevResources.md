@@ -1,6 +1,6 @@
 ## Developer Resource List 2017 (So Far)
 
-**Blog / Websites:**
+**Blog / Websites / Learning:**
 - [https://www.udacity.com/](https://www.udacity.com/) - Wide range of tutorials. Nano degree programs for those looking for a more indepth learning experience. 
 - [https://teamtreehouse.com/](https://teamtreehouse.com/) – Great video tutorials, has monthly fee.
 - [https://www.codecademy.com/](https://www.codecademy.com/) - Like Treehouse, more free content.
@@ -22,7 +22,7 @@
 **Hosting / Infustructure**
 - [https://www.digitalocean.com/](https://www.digitalocean.com/) - Awesome and cheap. Hands on hosting.
 - [https://firebase.google.com/](https://firebase.google.com/) - Great infustructure for building an app. Tons of great features, especially excited for functions. 
-- [https://cloud.google.com/products/](https://cloud.google.com/products/) - Like Firebase, look to GCP to expand possibilities. There Machine learning APIs are amazing.
+- [https://cloud.google.com/products/](https://cloud.google.com/products/) - Like Firebase, look to GCP to expand possibilities. There [https://cloud.google.com/vision/](Machine learning APIs) are amazing.
 - [https://aws.amazon.com/](https://aws.amazon.com/) - The worlds biggest cloud provider and so much more. Go get lost in it. 
 
 **Other lists**
